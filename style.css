@@ -1,0 +1,26 @@
+main {
+  min-height: 50vh;
+}
+
+.modal--small {
+  max-width: 570px;
+}
+
+.modal__grid--mod {
+  grid-template-columns: 1fr;
+}
+
+.modal__footer--short {
+  align-items: center;
+}
+
+.restore-link {
+  display: block;
+  margin-top: 16px;
+  color: #44A611;
+  font-size: 16px;
+}
+
+.modal__footer-once {
+  display: block;
+}
